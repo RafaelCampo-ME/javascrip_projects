@@ -1,0 +1,61 @@
+* {
+    --blue: rgb(211, 211, 224);
+   
+}
+ 
+
+h2,
+h3 {
+    color: rgb(7, 7, 68);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+ 
+
+h2 {
+    font-size: 35px;
+}
+ 
+
+p {
+    font-family:  "Courier New","Lucida Console", monospace;
+}
+
+ul {
+    color: chocolate;
+}
+
+ol {
+    color: aqua;
+}
+.lista-de-raccon {
+    color:rgb(69, 69, 219);
+    background: var(--blue);
+}
+
+.text-box {
+    padding: 0 10px;
+    height: 45px;
+    width: 280px;
+ 
+}
+
+.contact-form__input:first-child {
+    color: blueviolet;
+}
+ 
+.news-raccon {
+    font-size: 25px;
+    line-height: 1.1;
+     
+}
+
+.news-raccon__h1 {
+    font-size: 1em;
+    font-family: 'Ibarra Real Nova', serif;
+     
+}
+
+.news-raccon__p {
+    font-size: 0.7em;
+}
