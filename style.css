@@ -76,3 +76,15 @@ ol {
     font-size: 0.7em;
     text-align: justify;
 }
+
+.pieza-raccon__h1 {
+    background-color: aqua;
+}
+
+.pieza-raccon__b {
+    background-color: bisque;
+}
+
+.pieza-raccon__P {
+    background-color: rgb(151, 151, 194);
+}
