@@ -152,3 +152,8 @@ div div {
    background-color: black;  
     
 } 
+
+.box-fixed__h1 {
+    background-color: brown;
+    position: fixed;
+}
