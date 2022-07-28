@@ -75,6 +75,7 @@ ol {
 .news-raccon__p {
     font-size: 0.7em;
     text-align: justify;
+
 }
 
 .pieza-raccon__h1 {
@@ -153,7 +154,11 @@ div div {
     
 } 
 
+<<<<<<< HEAD
 .box-fixed__h1 {
     background-color: brown;
     position: fixed;
 }
+=======
+
+>>>>>>> e5a19fdc1192e55697f0a2e9efaf916a90ad8fcc
